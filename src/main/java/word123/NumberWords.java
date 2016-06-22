@@ -29,7 +29,7 @@ package word123;
 	a++;
 	}
 	System.out.println("File has " + a + " words are in the file");
-	System.out.println("Change Commit");;
+	System.out.println("Change Commit");
 	}
 	 
 	}
